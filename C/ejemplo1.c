@@ -59,10 +59,9 @@ void ejemplo8() {
 
     printf("Ejemplo 8: ");
     for (int i = 0; i < 3; i++) {
-        *(p + i ) 
         printf("%d ", arr[i]);
     }
-
+}
 int main() {
     ejemplo1();
     ejemplo2();
